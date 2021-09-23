@@ -4,12 +4,13 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./index.css";
 
 const App = () => {
+	const url = "https://reqres.in/api/users?page=1";
 	const [users, setUsers] = useState([]);
 
 	const loadUsers = async () => {
-    const response = await fetch("https://reqres.in/api/users?page=1");
-    const jsonResponse = await response.json();
-    setUsers(jsonResponse.data);
+    	const response = await fetch(url);
+    	const jsonResponse = await response.json();
+    	setUsers(jsonResponse.data);
   };
 
   return (
@@ -28,7 +29,7 @@ const App = () => {
 							<br />
 							<img src = {avatar} alt = "Profile Pic"></img>
 							<br />
-							<h3>{first_name}{last_name}</h3>
+							<h3>{first_name} {last_name}</h3>
 							<p>{email}</p>
 						</div>
 					</div>
