@@ -1,0 +1,37 @@
+.App {
+  margin: 1%;
+}
+
+.usersCard {
+  padding: 5%;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.Card {
+  border: 1px solid black;
+  width: 30%;
+  text-align: center;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+}
+
+.Card > img {
+  margin: 0 auto;
+  display: block;
+  border: 1px solid black;
+}
+
+nav > button {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: greenyellow;
+  padding: 10px;
+}
+
+nav > button:hover {
+  cursor: pointer;
+}
