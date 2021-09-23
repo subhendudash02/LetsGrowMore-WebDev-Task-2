@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LetsGrowMore-WebDev-Task-2/static/css/main.eff57ac5.chunk.css",
+    "main.js": "/LetsGrowMore-WebDev-Task-2/static/js/main.58a72b24.chunk.js",
+    "main.js.map": "/LetsGrowMore-WebDev-Task-2/static/js/main.58a72b24.chunk.js.map",
+    "runtime-main.js": "/LetsGrowMore-WebDev-Task-2/static/js/runtime-main.2a9fbfd1.js",
+    "runtime-main.js.map": "/LetsGrowMore-WebDev-Task-2/static/js/runtime-main.2a9fbfd1.js.map",
+    "static/css/2.53150396.chunk.css": "/LetsGrowMore-WebDev-Task-2/static/css/2.53150396.chunk.css",
+    "static/js/2.4b750568.chunk.js": "/LetsGrowMore-WebDev-Task-2/static/js/2.4b750568.chunk.js",
+    "static/js/2.4b750568.chunk.js.map": "/LetsGrowMore-WebDev-Task-2/static/js/2.4b750568.chunk.js.map",
+    "static/js/3.5ca88445.chunk.js": "/LetsGrowMore-WebDev-Task-2/static/js/3.5ca88445.chunk.js",
+    "static/js/3.5ca88445.chunk.js.map": "/LetsGrowMore-WebDev-Task-2/static/js/3.5ca88445.chunk.js.map",
+    "index.html": "/LetsGrowMore-WebDev-Task-2/index.html",
+    "static/css/2.53150396.chunk.css.map": "/LetsGrowMore-WebDev-Task-2/static/css/2.53150396.chunk.css.map",
+    "static/css/main.eff57ac5.chunk.css.map": "/LetsGrowMore-WebDev-Task-2/static/css/main.eff57ac5.chunk.css.map",
+    "static/js/2.4b750568.chunk.js.LICENSE.txt": "/LetsGrowMore-WebDev-Task-2/static/js/2.4b750568.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a9fbfd1.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.4b750568.chunk.js",
+    "static/css/main.eff57ac5.chunk.css",
+    "static/js/main.58a72b24.chunk.js"
+  ]
+}
