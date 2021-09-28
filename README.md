@@ -10,7 +10,7 @@ Instructions link: https://www.canva.com/design/DAEhLWUJEDM/qVR2Ig97ZNDlBM7nYjfa
 <br>
 Website link: https://subhendudash02.github.io/LetsGrowMore-WebDev-Task-2/
 <br>
-LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:6848255849589215233/
+LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:6848256813855502337/
 
 <hr><br>
 This repository is licensed under MIT license<br>
